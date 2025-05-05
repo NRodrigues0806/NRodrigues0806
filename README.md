@@ -1,9 +1,9 @@
 ## Olá! Sou o Nicolas Rodrigues de Oliveira, Desenvolvedor Full-Stack!
 
-- 🔭 Atualmente trabalho como estagiário no desenvolvimento Full-Stack Low-Code / No-Code com foco em Supabase e WeWeb, desenvolvendo projetos e desafios do mundo corporativo de maneira criativa, inovadora e lógica!
-- 👨🏻‍💻 Focado no aprendizado em C#, Angular, TypeScript e SQLServer
+- 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code / No-Code com foco em Supabase, WeWeb e FlutterFlow, desenvolvendo projetos e desafios do mundo corporativo de maneira criativa, inovadora e lógica!
+- 👨🏻‍💻 Focado no aprendizado em C#, Angular, TypeScript e SQL
 - Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (USC)
-- Estarei divulgando por aqui um pouco de meus projetos e trabalho com todos os amantes da tecnologia, vamos crescer juntos!
+- Estarei divulgando por aqui um pouco de meus projetos e trabalhos com todos os amantes da tecnologia, vamos crescer juntos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
