@@ -28,9 +28,6 @@
 
 ![NRodrigues0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRodrigues0806&show_icons=true&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NRodrigues0806&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 Linguagens mais usadas
 
