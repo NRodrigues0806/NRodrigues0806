@@ -23,3 +23,15 @@
   <a href="https://www.linkedin.com/in/nicolas-rodrigues-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## 📊 GitHub Stats
+
+![NRodrigues0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRodrigues0806&show_icons=true&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NRodrigues0806&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Linguagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRodrigues0806&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
