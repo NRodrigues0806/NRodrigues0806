@@ -29,6 +29,6 @@
 ![NRodrigues0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRodrigues0806&show_icons=true&theme=tokyonight)
 
 
-## 🔥 Linguagens mais usadas
+## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRodrigues0806&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
