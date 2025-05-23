@@ -1,15 +1,16 @@
 ## Olá! Sou o Nicolas Rodrigues de Oliveira, Desenvolvedor Full-Stack!
 
-- 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code / No-Code com foco em Supabase, WeWeb e FlutterFlow, desenvolvendo projetos e desafios do mundo corporativo de maneira criativa, inovadora e lógica!
-- 👨🏻‍💻 Focado no aprendizado em C#, Angular, TypeScript e SQL
+- 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code / No-Code com foco em Supabase, Firebase, WeWeb e FlutterFlow, desenvolvendo projetos e desafios do mundo corporativo de maneira criativa, inovadora e lógica!
+- 👨🏻‍💻 Focado no aprendizado em Java, C#, Angular, TypeScript e SQL
 - Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (USC)
-- Estarei divulgando por aqui um pouco de meus projetos e trabalhos com todos os amantes da tecnologia, vamos crescer juntos!
+- Estarei divulgando por aqui um pouco de meus projetos e trabalhos com todos os apaixonados pela tecnologia, vamos crescer juntos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Nicolas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nicolas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Nicolas-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
