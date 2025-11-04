@@ -1,9 +1,9 @@
 ## Olá! Sou o Nicolas Rodrigues de Oliveira, Desenvolvedor Full-Stack!
 
-- 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code / No-Code com foco em Supabase, Firebase, WeWeb e FlutterFlow, desenvolvendo projetos e desafios do mundo corporativo de maneira criativa, inovadora e lógica!
-- 👨🏻‍💻 Focado no aprendizado em Java, C#, Angular, TypeScript e SQL
-- Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (USC)
-- Estarei divulgando por aqui um pouco de meus projetos e trabalhos com todos os apaixonados pela tecnologia, vamos crescer juntos!
+- 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code em uma EdTech / No-Code com foco em Supabase, Firebase, WeWeb e FlutterFlow, desenvolvendo projetos, desafios e vídeo-aulas para o curso!
+- 👨🏻‍💻 Atualmente focado em desenvolvimento com Java, .NET, React, JavaScript e SQL
+- Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (USC) - Formação em 12/2027
+- Estarei divulgando por aqui um pouco de meus projetos pessoais e trabalhos com todos, vamos crescer juntos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Nicolas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nicolas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="center" alt="Nicolas-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
   
