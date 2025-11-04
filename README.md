@@ -1,7 +1,7 @@
 ## Olá! Sou o Nicolas Rodrigues de Oliveira, Desenvolvedor Full-Stack!
 
 - 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code em uma EdTech / No-Code com foco em Supabase, Firebase, WeWeb e FlutterFlow, desenvolvendo projetos, desafios e vídeo-aulas para o curso!
-- 👨🏻‍💻 Atualmente focado em desenvolvimento com Java, .NET, React, JavaScript e SQL
+- 👨🏻‍💻 Atualmente focado em desenvolvimento com Java / .NET / React / JavaScript / SQL
 - Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (USC) - Formação em 12/2027
 - Estarei divulgando por aqui um pouco de meus projetos pessoais e trabalhos com todos, vamos crescer juntos!
 
