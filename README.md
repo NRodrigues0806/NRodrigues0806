@@ -1,4 +1,4 @@
-## Olá! Sou o Nicolas Rodrigues de Oliveira, Desenvolvedor Full-Stack!
+## Olá! Sou o Nicolas Rodrigues, Desenvolvedor Full-Stack!
 
 - 🔭 Atualmente trabalho como estagiário em desenvolvimento Full-Stack Low-Code na Desenvolvo, uma EdTech com foco atualmente em Tecnologias assistidas por I.A, como Lovable e Base44, além de ferramentas como Supabase, Firebase, WeWeb, FlutterFlow e outras tecnologias Low-Code, desenvolvendo projetos e transformando em módulos de aulas para o curso!
 - 👨🏻‍💻 Atualmente focado em desenvolvimento com Java / .NET / React / SQL
