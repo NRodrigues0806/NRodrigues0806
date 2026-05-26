@@ -22,11 +22,3 @@
  <a href="mailto:nicolasrodriguesdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/nicolas-rodrigues-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## 📊 GitHub Stats
-
-![NRodrigues0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRodrigues0806&show_icons=true&theme=tokyonight&v=1)
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRodrigues0806&layout=compact&theme=tokyonight&v=1)](https://github.com/anuraghazra/github-readme-stats)
