@@ -26,7 +26,3 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](profile-summary-card-output/tokyonight/0-profile-details.svg)
-
-## Most Used Languages
-
-![Top Langs](profile-summary-card-output/tokyonight/1-repo-languages.svg)
