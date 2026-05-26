@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![NRodrigues0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRodrigues0806&show_icons=true&theme=tokyonight)
+![NRodrigues0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRodrigues0806&show_icons=true&theme=tokyonight&v=1)
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRodrigues0806&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRodrigues0806&layout=compact&theme=tokyonight&v=1)](https://github.com/anuraghazra/github-readme-stats)
