@@ -1,9 +1,9 @@
-## Olá! Sou o Nicolas Rodrigues, Analista de Dados e Engenheiro de Software!
+## Olá! Sou o Nicolas Rodrigues, Engenheiro de Processos & Automação!
 
-- Atualmente atuo como Analista de Dados e Automação na Praialar Imóveis, focado em estruturar inteligência de dados (BI), processos de ETL e fluxos de automação para aumentar a conversão de leads e a operação comercial.
-- Foco técnico atual em Análise de Dados e Automação com SQL, Python, Power BI, AWS e n8n, além de manter base em Engenharia de Software com Java e JavaScript.
-- 🎓 Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (USC) - Formação em 12/2027.
-- Compartilhando por aqui meus projetos práticos de dados, automações e desenvolvimento, focados em transformar dados brutos em decisões estratégicas.
+- Atualmente atuo na Engenharia de Processos e Automação no Itaú Unibanco (Seguros PJ), com foco em mapeamento de ponta a ponta (BPMN / Lean Six Sigma), eliminação de gargalos operacionais e desenvolvimento de soluções com foco em RPA e agentes de I.A.
+- Foco técnico em Automação e Processos com Power Platform (Power Automate, Power Apps), Python, SQL, observabilidade de rotinas automatizadas e estudos contínuos em Copilot Studio, além de sólida bagagem em Engenharia de Dados (ETL) e Engenharia de Software.
+- 🎓 Cursando Bacharelado em Sistemas de Informação pela Universidade Santa Cecília (Unisanta) - Formação em 12/2027.
+- Compartilhando por aqui meus projetos práticos de automação, dados e arquitetura de software, focados em transformar fluxos complexos em eficiência real.
 
 <div align="left">
   <img align="center" alt="Nicolas-SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
