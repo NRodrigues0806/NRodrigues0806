@@ -6,21 +6,20 @@
 - Compartilhando por aqui meus projetos práticos de automação, dados e arquitetura de software, focados em transformar fluxos complexos em eficiência real.
 
 <div align="left">
-  <img align="center" alt="Nicolas-SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Nicolas-Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Nicolas-AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Nicolas-PowerBI" height="30" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black">
-  <img align="center" alt="Nicolas-n8n" height="30" src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white">
-  <img align="center" alt="Nicolas-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Nicolas-Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Power Automate" height="30" src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white">
+  <img align="center" alt="Power Apps" height="30" src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white">
+  <img align="center" alt="n8n" height="30" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
+  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="SQL" height="30" src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </div>
 
 <br>
 
 <div> 
- <a href="https://discord.com/users/236965654274506753" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="mailto:nicolasrodriguesdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/nicolas-rodrigues-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/users/236965654274506753" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:nicolasrodriguesdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolas-rodrigues-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 📊 GitHub Stats
